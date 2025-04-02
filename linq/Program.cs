@@ -60,7 +60,7 @@ namespace linq
 
            
             
-
+            //hola soy Fran y estoy enfermo
             // mas comentarios
             Console.ReadLine();
         }
