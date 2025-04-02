@@ -26,8 +26,8 @@ namespace linq
             List<Sucursal> Sucursales = new List<Sucursal>();
 
             Sucursal suc1 = new Sucursal();
-            suc1.Id = 1;
-            suc1.Name = "Melonnnnnnn" ;
+            suc1.Id = 165444;
+            suc1.Name = "Melo" ;
             suc1.Poblacion = 20000;
 
             Sucursal suc2 = new Sucursal();
