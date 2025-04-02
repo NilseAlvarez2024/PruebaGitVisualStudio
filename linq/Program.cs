@@ -57,7 +57,7 @@ namespace linq
 
            
             
-            //hola soy Fran
+            //hola soy Fran inteno
             // mas comentarios
             Console.ReadLine();
         }
