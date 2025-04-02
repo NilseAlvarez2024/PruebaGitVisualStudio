@@ -14,6 +14,8 @@ namespace linq
             // comentario lsdkfjklsdjfgaskdfgaks
 
 
+            // hola soy martin
+
             //sdjfhksdjhfksdf
 
             // sdkfjsldkfsd
@@ -52,7 +54,11 @@ namespace linq
 
             Console.ReadLine();
 
+           
             
+
+            // mas comentarios
+            Console.ReadLine();
         }
     }
 }
