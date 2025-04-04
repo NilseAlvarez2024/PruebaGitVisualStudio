@@ -10,14 +10,7 @@ namespace linq
     {
         static void Main(string[] args)
         {
-
-            // comentario lsdkfjklsdjfgaskdfgaks
-
-            // otro cambio
-
-            // hola soy martin
-            // vamo arriba peñarol
-
+            // hola
             // ojala hoy ganen pero....
 
             //sdjfhksdjhfksdf
